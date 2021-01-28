@@ -1,0 +1,2 @@
+rootProject.name='IEEEyesist_task'
+include ':app'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"></item>
+    <item android:id="@+id/trending"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        android:title="Trending"></item>
+    <item android:id="@+id/options"
+        android:icon="@drawable/ic_grid_on_black_24dp"
+        android:title="Options"></item>
+    <item android:id="@+id/info"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Info"></item>
+    <item android:id="@+id/select"
+        android:icon="@drawable/ic_linear_scale_black_24dp"
+        android:title="Select"></item>
+</menu>
