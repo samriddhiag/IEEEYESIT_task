@@ -56,7 +56,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@drawable/cardone" />
+            android:src="@mipmap/cardone" />
 
             <TextView
                 android:id="@+id/innotext"
@@ -102,7 +102,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cardtwo" />
+                android:src="@mipmap/cardtwo" />
 
             <TextView
                 android:id="@+id/visstext"
@@ -148,7 +148,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cardthree" />
+                android:src="@mipmap/cardthree" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
